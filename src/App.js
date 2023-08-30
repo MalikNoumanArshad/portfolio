@@ -65,7 +65,7 @@ return (
   <table border={"1px"}>
     <thead>
       <th>ID</th>
-      <th>Task Name</th>
+      <th>Task </th>
       <th>Start Date</th>
       <th>End Date</th>
       <th>Status</th>
